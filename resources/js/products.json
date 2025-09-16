@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "description": "Premium cotton t-shirt in white, perfect for everyday wear.",
+    "price": 999,
+    "currency": "PKR",
+    "category": "Clothing",
+    "brand": "Khwaam Khaas",
+    "stock": 25,
+    "images": [
+      "images/products/denim_blue_back.jpg"
+      
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Blue Denim Jeans",
+    "description": "Slim-fit blue denim jeans with stretch fabric for comfort.",
+    "price": 2499,
+    "currency": "PKR",
+    "category": "Clothing",
+    "brand": "Khwaam Khaas",
+    "stock": 15,
+    "images": [
+      "images/products/denim_blue_front.jpg",
+      "images/products/denim_blue_back.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Leather Handbag",
+    "description": "Brown genuine leather handbag with gold-tone hardware.",
+    "price": 4999,
+    "currency": "PKR",
+    "category": "Accessories",
+    "brand": "Khwaam Khaas",
+    "stock": 10,
+    "images": [
+      "images/products/handbag_brown.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Running Sneakers",
+    "description": "Lightweight running sneakers designed for all-day comfort.",
+    "price": 3999,
+    "currency": "PKR",
+    "category": "Footwear",
+    "brand": "Khwaam Khaas",
+    "stock": 20,
+    "images": [
+      "images/products/sneakers_running.jpg"
+    ]
+  }
+]
